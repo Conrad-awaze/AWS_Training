@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSLibrary", "AWSLibrary\AWSLibrary.csproj", "{5D97BAF1-EC25-4F5C-9E7D-B1DBB60AB493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupAWSCredentials", "SetupAWSCredentials\SetupAWSCredentials.csproj", "{95DB9527-4D01-4B9E-97A5-9B20F555D885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D97BAF1-EC25-4F5C-9E7D-B1DBB60AB493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D97BAF1-EC25-4F5C-9E7D-B1DBB60AB493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D97BAF1-EC25-4F5C-9E7D-B1DBB60AB493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D97BAF1-EC25-4F5C-9E7D-B1DBB60AB493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DB9527-4D01-4B9E-97A5-9B20F555D885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DB9527-4D01-4B9E-97A5-9B20F555D885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DB9527-4D01-4B9E-97A5-9B20F555D885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DB9527-4D01-4B9E-97A5-9B20F555D885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07C9512-0F06-42E8-BBA4-440AB1A9CFF5}
+	EndGlobalSection
+EndGlobal
