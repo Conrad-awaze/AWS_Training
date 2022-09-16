@@ -1,4 +1,6 @@
-﻿using Amazon.Runtime.CredentialManagement;
+// https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/creds-file.html
+
+using Amazon.Runtime.CredentialManagement;
 
 namespace AWSLibrary;
 
